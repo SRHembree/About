@@ -975,28 +975,23 @@ h1, h2 {
     color: #0D1D21;
     font-family: 'pt-sans', sans-serif;
     font-style: bold;
-    font-size: 35px;
+    font-size: 18px;
     font-weight: 600;
     text-align: center;
-}
-h3 {
-    font-size: 30px;
-    text-align: center;
-    font-family: "pt-sans", sans-serif;
-    font-style: normal;
-    color: #0D1D21;
 }
 .paragraph {
     text-align: center;
     padding-top: 2%;
+    color: #0D1D21;
+    font-family: 'pt-sans', sans-serif;
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 400;
 }
 .protoVisual img {
     margin: auto; 
-    height: 80%;
-    max-width: 80%;
-    border: 3;
-    color: #E5584C;
-    border-style: solid;
+    height: 100%;
+    max-width: 100%;
     border-radius: 5px;
     z-index: 1;
 }
