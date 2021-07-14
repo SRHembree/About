@@ -410,40 +410,6 @@ html {
     margin-left: 2%;
     margin-right: 2%;
 }
-@media only screen and (max-width: 995px) {
-    #dropdownMenuLink {
-        background-color: white;
-        color: #0D1D21 !important;
-        border-color: white;
-        align-items: left !important;
-        font-family: "Gill Sans",Helvetica,Arial,sans-serif;
-        border-color: #E5584C !important;
-        border-width: 2px;
-    }
-    #dropdownMenuLink:hover {
-        background-color: #E5584C;
-        color: white !important;
-    }
-    .navbar {
-        padding-top: 1%;
-        margin-bottom: 2%;
-    }
-    .navbar-nav {
-        background-color: white;
-        margin-top: -1.5%;
-        align-content: center;
-    }
-    .nav-link {
-        background-color: white;
-        text-align: center;
-        margin-top: 0px !important;
-    }
-    .navbar-nav > li {
-        font-family: "Gill Sans",Helvetica,Arial,sans-serif;
-        margin-left: 20px;
-        margin-right: 20px;
-    }
-}
 .savingThrow {
     z-index: 1; 
 }
@@ -489,7 +455,7 @@ h1, h2 {
     height: 100%;
     max-width: 100%;
     border-radius: 5px;
-    z-index: 1;
+    z-index: 0;
 }
 .card {
     border: none;
