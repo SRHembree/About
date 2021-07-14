@@ -466,49 +466,45 @@ h1, h2 {
     border-radius: 20px;
     position: relative;
 }
-.skills .progress {
-    height: 60px;
-    display: block;
-    background: none;
-    border-radius: 0;
-    padding-left: 15px;
-    padding-right: 15px;
-}
-.progress {
-    display: flex;
-    height: 1rem;
-    overflow: hidden;
-    font-size: .75rem;
-}
-.skills .progress .skill {
-    padding: 10px 0;
-    margin: 0 0 6px 0;
-    text-transform: uppercase;
-    display: block;
-    font-weight: 600;
-    font-family: 'pt-sans', sans-serif;
-    color: black;
-}
-.skills .progress-bar {
-    height: 10px;
-    background: #DC423C;
-    transition: 1s cubic-bezier(1, 0, .5, 1);
-    -webkit-transition: 1s cubic-bezier(1, 0, .5, 1);
-    -ms-transition: 1s cubic-bezier(1, 0, .5, 1);
-}
-.progress-bar {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    overflow: hidden;
-    color: gray;
+.skill1 {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     text-align: center;
-    white-space: nowrap;
+    width: 100%;
+    height: auto;
+    background-color: #DC423C;
+    border-color: #9BAFAA;
+    color: white;
+    font-family: 'pt-sans', sans-serif;
+    font-size: 15px;
 }
-.skills .progress-bar-wrap {
-    background: #f3f3f3;
+.skill2 {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    background-color: #9BAFAA;
+    border-color: #ECC19B;
+    color: black;
+    font-family: 'pt-sans', sans-serif;
+    font-size: 15px;
 }
-.skills .progress .skill .val {
-    float: right;
-    font-style: normal;
+.skill3 {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    background-color: #ECC19B;
+    border-color: #DC423C;
+    color: black;
+    font-family: 'pt-sans', sans-serif;
+    font-size: 15px;
 }
