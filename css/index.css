@@ -474,9 +474,9 @@ h1, h2 {
     text-align: center;
     width: 100%;
     height: auto;
-    background-color: #DC423C;
+    background-color: white;
     border-color: #9BAFAA;
-    color: white;
+    color: black;
     font-family: 'pt-sans', sans-serif;
     font-size: 15px;
 }
@@ -488,7 +488,7 @@ h1, h2 {
     text-align: center;
     width: 100%;
     height: auto;
-    background-color: #9BAFAA;
+    background-color: white;
     border-color: #ECC19B;
     color: black;
     font-family: 'pt-sans', sans-serif;
@@ -502,9 +502,21 @@ h1, h2 {
     text-align: center;
     width: 100%;
     height: auto;
-    background-color: #ECC19B;
+    background-color: white;
     border-color: #DC423C;
     color: black;
     font-family: 'pt-sans', sans-serif;
     font-size: 15px;
+}
+.skill1:hover{
+    background-color: #DC423C;
+    color: white;
+}
+.skill2:hover {
+    background-color: #9BAFAA;
+    color: black;
+}
+.skill3:hover {
+    background-color: #ECC19B;
+    color: black;
 }
