@@ -41,7 +41,7 @@
             color: white;
         }
         .socials:hover {
-            color: #E5584C;
+            color: #8c75b5;
         }
         .icon-background {
             color: #686868;
@@ -96,7 +96,7 @@
         color: white;
     }
     .socials:hover {
-        color: #E5584C;
+        color: #8c75b5;
     }
     .icon-background {
         color: #686868;
@@ -163,7 +163,7 @@
         color: white;
     }
     .socials:hover {
-        color: #E5584C;
+        color: #8c75b5;
     }
     .icon-background {
         color: #686868;
@@ -281,7 +281,7 @@
         color: white;
     }
     .socials:hover {
-        color: #E5584C;
+        color: #8c75b5;
     }
     .icon-background {
         color: #686868;
@@ -310,11 +310,11 @@
         border-color: white;
         align-items: left !important;
         font-family: "Gill Sans",Helvetica,Arial,sans-serif;
-        border-color: #E5584C !important;
+        border-color: #8c75b5 !important;
         border-width: 2px;
     }
     #dropdownMenuLink:hover {
-        background-color: #E5584C;
+        background-color: #8c75b5;
         color: white !important;
     }
     .navbar {
@@ -398,7 +398,7 @@ html {
     font-family: "Gill Sans",Helvetica,Arial,sans-serif;
 }
 #dropdownMenuLink:hover {
-    background-color: #E5584C;
+    background-color: #8c75b5;
     color: white !important;
 }
 .navbar {
@@ -417,7 +417,7 @@ hr {
     margin-top: 1rem;
     margin-bottom: 1rem;
     border: 0;
-    border-top: 1px solid #DC423C;
+    border-top: 1px solid #8c75b5;
 }
 h1, h2 {
     color: #0D1D21;
@@ -503,13 +503,13 @@ h1, h2 {
     width: 100%;
     height: auto;
     background-color: white;
-    border-color: #DC423C;
+    border-color: #8c75b5;
     color: black;
     font-family: 'pt-sans', sans-serif;
     font-size: 15px;
 }
 .skill1:hover{
-    background-color: #DC423C;
+    background-color: #8c75b5;
     color: white;
 }
 .skill2:hover {
