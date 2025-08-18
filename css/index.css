@@ -24,7 +24,7 @@
             position: relative;
         }
         .flowerPower img {
-            width: 60%; 
+            width: 50%; 
             animation: big-spin 160s linear infinite;
         }
         @keyframes big-spin {
@@ -79,7 +79,7 @@
         position: relative;
     }
     .flowerPower img {
-        width: 100%; 
+        width: 60%; 
         animation: big-spin 160s linear infinite;
     }
     @keyframes big-spin {
@@ -136,7 +136,7 @@
         position: relative;
     }
     .flowerPower img {
-        width: 100%; 
+        width: 60%; 
         animation: big-spin 160s linear infinite;
     }
     @keyframes big-spin {
@@ -202,7 +202,7 @@
         position: relative;
     }
     .flowerPower img {
-        width: 100%; 
+        width: 60%; 
         animation: big-spin 160s linear infinite;
     }
     @keyframes big-spin {
@@ -265,7 +265,7 @@
         position: relative;
     }
     .flowerPower img {
-        width: 100%; 
+        width: 60%; 
         animation: big-spin 160s linear infinite;
     }
     @keyframes big-spin {
