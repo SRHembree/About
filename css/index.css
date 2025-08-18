@@ -22,6 +22,8 @@
         }
         .flowerPower {
             position: relative;
+            display: block;
+            margin: auto;
         }
         .flowerPower img {
             width: 70%; 
