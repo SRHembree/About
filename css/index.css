@@ -24,7 +24,7 @@
             position: relative;
         }
         .flowerPower img {
-            width: 100%; 
+            width: 80%; 
             animation: big-spin 160s linear infinite;
         }
         @keyframes big-spin {
