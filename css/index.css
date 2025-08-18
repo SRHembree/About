@@ -22,12 +22,12 @@
         }
         .flowerPower {
             position: relative;
-            display: block;
-            margin: auto;
+            padding-top: 90px;
         }
         .flowerPower img {
-            width: 70%; 
-            animation: big-spin 160s linear infinite;
+            width: 100%; 
+            height: fit-content;
+            animation: big-spin 140s linear infinite;
         }
         @keyframes big-spin {
             0% {
