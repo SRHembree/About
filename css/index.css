@@ -320,7 +320,7 @@
         border-width: 2px;
     }
     #dropdownMenuLink:hover {
-        background-color: #8c75b5;
+        background-color: #754eb8;
         color: white !important;
     }
     .navbar {
@@ -404,7 +404,7 @@ html {
     font-family: "Gill Sans",Helvetica,Arial,sans-serif;
 }
 #dropdownMenuLink:hover {
-    background-color: #8c75b5;
+    background-color: #754eb8;
     color: white !important;
 }
 .navbar {
